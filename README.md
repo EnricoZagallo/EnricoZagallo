@@ -1,4 +1,4 @@
-# 💻Enrico Zagallo
+# 💻 Enrico Zagallo
 **`Desenvolvedor Back-End`**
 
 Foco em desenvolvimento Back-end utilizando Java. Tenho dedicado meus estudos ao fortalecimento da base em programação, lógica de software e boas práticas de desenvolvimento, com ênfase no ecossistema Java.
