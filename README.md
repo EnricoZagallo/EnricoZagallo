@@ -55,7 +55,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
 <img
   align = "left"
   alt = "Github stats"
-  height = "200px"
+  height = "400px"
   style = "padding-right: 10px;"
   src="https://github-readme-stats-grvn.vercel.app/api?username=EnricoZagallo&show_icons=true&theme=tokyonight" />
   
