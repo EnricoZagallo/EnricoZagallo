@@ -57,14 +57,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
   alt = "Github stats"
   height = "200px"
   style = "padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=EnricoZagallo&show_icons=true&theme=tokyonight&v=2" />
+  src="https://github-readme-stats.vercel.app/api?username=EnricoZagallo&show_icons=true&theme=tokyonight" />
   
   <img
   align = "left"
   alt = "Github stats"
   height = "200px"
   style = "padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoZagallo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=3" />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoZagallo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 
 
 
