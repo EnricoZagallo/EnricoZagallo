@@ -51,7 +51,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
   <br/>
 
   ### 📊 Estatatísticas
-<img align = "left" alt = "Github stats" height = "200px" style = "padding-right: 10px;" src="https://github-readme-stats-grvn.vercel.app/api/top-langs/?username=EnricoZagallo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v3" />
+<img align = "left" alt = "Github stats" height = "200px" style = "padding-right: 10px;" src="https://github-readme-stats-grvn.vercel.app/api/top-langs/?username=EnricoZagallo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v2" />
 
 
 
